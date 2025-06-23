@@ -1,2 +1,2 @@
-console.log("New");
-console.log("version 1");
+console.log("New Feature");
+console.log("version 2");
